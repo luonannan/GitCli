@@ -5,3 +5,6 @@ Today is a good day.I am fine.
 どの動物がすきですか。
 README.mdに追記(pull)
 README.mdに内容を追記(プルリク)0
+
+README.mdに内容を追記(プルリク)1
+
